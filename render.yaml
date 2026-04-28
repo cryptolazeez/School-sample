@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: brightfield-school
+    env: static
+    buildCommand: ""
+    publishDir: "."
